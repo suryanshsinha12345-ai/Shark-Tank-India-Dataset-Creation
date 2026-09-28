@@ -61,3 +61,23 @@ Data Type & Structure Validation
 Data Quality Checks
     ↓
 Clean Dataset
+
+
+## 📊 Kaggle Dataset
+
+The cleaned and structured dataset is publicly available on Kaggle:
+
+🔗 **[Shark Tank India Season 1 Dataset – Kaggle](https://www.kaggle.com/datasets/suryanshsinha1623/shark-tank-india-season-1-dataset/data)**
+
+The dataset contains **124 Shark Tank India Season 1 pitch records** with **15 columns**, covering pitch details, business information, deal information, and shark participation.
+
+### Dataset Highlights
+- 📌 124 pitch records
+- 📌 15 columns
+- 📌 31 episodes
+- 📌 Cleaned and structured data
+- 📌 CSV format
+- 📌 Created using Python and Pandas
+- 📌 Source: Wikipedia – Shark Tank India Season 1
+
+The dataset can be used for **Exploratory Data Analysis (EDA), business analysis, visualization, and data analytics projects**.
