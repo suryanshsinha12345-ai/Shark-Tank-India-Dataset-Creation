@@ -1,7 +1,7 @@
 # Shark-Tank-India-Dataset-Creation
 A Python-based data collection and cleaning project that creates a structured Shark Tank India Season 1 dataset using Pandas and web table extraction.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on creating a structured dataset from **Shark Tank India Season 1** using Python and Pandas.
 
@@ -11,7 +11,7 @@ The project demonstrates a practical data preparation workflow, from extracting 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -25,7 +25,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Pandas**
@@ -35,7 +35,7 @@ The main objectives of this project are:
 
 ---
 
-## 🌐 Data Source
+##  Data Source
 
 The dataset is based on information from the **Shark Tank India Season 1** Wikipedia page.
 
@@ -43,7 +43,7 @@ The project uses Pandas-based HTML table extraction to collect the required tabu
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 The project follows the workflow below:
 
